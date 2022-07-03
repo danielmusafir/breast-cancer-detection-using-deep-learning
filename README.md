@@ -1,4 +1,4 @@
-# breast-cancer-detection-using-deep-learning
+# Breast-cancer-detection-using-deep-learning
 
 **ABSTRACT**
 
